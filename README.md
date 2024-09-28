@@ -16,16 +16,7 @@ This project is a basic replica of a McDonald's order system developed in Python
 - **Python**: The core language used to build the application.
 - **Emoji Library**: Adds emojis to enhance the user interface and make it more engaging.
 
-### How to Use
-1. **Clone the Repository:**
-   \`\`\`bash
-   git clone https://github.com/your-username/McDonalds-Order-System.git
-   \`\`\`
-2. **Run the Application:**
-   \`\`\`bash
-   python mcd_order_system.py
-   \`\`\`
-3. **Follow the prompts** to navigate through the different functionalities of placing, updating, or managing orders.
+
 
 ### Menu Items
 The current menu consists of:
