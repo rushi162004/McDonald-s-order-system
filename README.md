@@ -1,7 +1,5 @@
 # McDonald-s-order-system
 
-content = """
-# McDonald's Order System - Python Replica
 
 ### Overview
 This project is a basic replica of a McDonald's order system developed in Python. It allows users to place, update, search, and delete orders in an interactive command-line interface. The application tracks multiple orders and items, dynamically calculates totals, and offers real-time updates for users.
